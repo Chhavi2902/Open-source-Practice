@@ -32,7 +32,7 @@ flowchart LR
 
 - On the top right of the Readme file, click on the pencil icon to edit the file by **adding your name and your GitHub profile link to the section that matches your Initial in [this list](https://github.com/GSSoC24/being-an-GSSoc24/blob/main/docs/readme.md#GSSoC24-Community). Make sure that your name is in alphabetical order.**
 - After editing the Readme file, add a commit message and click on the green button saying "Commit Changes". Make sure you have selected the branch you have created.
-
+//I was supposed to add my name but it says page not found.
 **4. Raise a Pull Request:**
 
 - Click `Pull Requests` option in your forked repository (which is the third option at the top of this page after the options `Code` and `Issues`).
